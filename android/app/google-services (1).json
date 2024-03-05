@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589839373339",
+    "project_id": "wiseapp-tutorial-videos",
+    "storage_bucket": "wiseapp-tutorial-videos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589839373339:android:e8537162004e8c487294be",
+        "android_client_info": {
+          "package_name": "com.example.flutter_speech_to_text_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChvklnd6LQwJIsCqOhJNq2QI1rpdeaUPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
